@@ -1,4 +1,4 @@
-### Hi there, my name is Gabriel and I am just your neighbor and low profile Programmer! 👋
+### Hi there, my name is Gabriel and I am just a low profile Programmer! 👋
 
 <br>
 
