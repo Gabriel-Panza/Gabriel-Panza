@@ -3,6 +3,6 @@
 <br>
 
 <div align = "center"> 
-<img align = "left" height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&theme=codeSTACKr&langs_count=8)"> </img>
+<img align = "left" height = "180px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&theme=codeSTACKr))"> </img>
 <img align = "right" height = "180px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Panza&show_icons=true&theme=codeSTACKr"> </img>
 </div>
