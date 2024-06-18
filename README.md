@@ -7,7 +7,11 @@
 <div align = "center"> 
 <img align = "left" height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&hide=dart,C&theme=tokyonight&show_icons=true))"> </img>
 <img align = "center-right" height = "180px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Panza&theme=tokyonight&show_icons=true"> </img>
-<br><br><br><br><br>
+</div>
+
+<br><br><br><br>
+
+<div align = "center"> 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Panza&bg_color=000000&color=c71585&line=E664CD&point=911f67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br><br><br><br>
 <img align = "center" height = "60px" src="https://komarev.com/ghpvc/?username=Gabriel-Panza&color=lightgrey&style=for-the-badge"> </img>
