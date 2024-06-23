@@ -5,7 +5,7 @@
 <br>
 
 <div align = "center"> 
-<img align = "left" height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&hide=dart,C&theme=tokyonight&show_icons=true))"> </img>
+<img align = "left" height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&hide=C&theme=tokyonight&show_icons=true))"> </img>
 <img align = "center-right" height = "180px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Panza&theme=tokyonight&show_icons=true"> </img>
 </div>
 
