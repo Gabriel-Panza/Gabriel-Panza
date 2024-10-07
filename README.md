@@ -14,7 +14,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Panza&bg_color=000000&color=ADD8E6&line=00008B&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br><br><br><br>
-
-<div align = "center"> 
-<img align = "center" height = "60px" src="https://komarev.com/ghpvc/?username=Gabriel-Panza&color=lightgrey&style=for-the-badge"> </img>
-</div>
