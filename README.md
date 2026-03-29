@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,unity,godot,html,css,js,typescript,java" alt="Minhas Linguagens e Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=py,unity,godot,html,css,js,typescript,java" alt="Linguagens e Ferramentas" />
   </a>
 </div>
 
