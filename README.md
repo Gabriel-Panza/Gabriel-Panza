@@ -4,9 +4,10 @@
 
 <br>
 
-<div align = "center"> 
-<img align = "left" height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Panza&hide=C,jupyter%20notebook&theme=tokyonight&show_icons=true))"> </img>
-<img align = "center-right" height = "180px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Panza&theme=tokyonight&show_icons=true"> </img>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,unity,godot,html,css,js,java" alt="Minhas Linguagens e Ferramentas" />
+  </a>
 </div>
 
 <br><br><br><br>
