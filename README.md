@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Panza/Gabriel-Panza/main/metrics.plugin.languages.svg" alt="Linguagens mais usadas" />
+  <img src="metrics.plugin.languages.svg" alt="Linguagens mais usadas" />
 </div>
 
 <br><br><br><br>
