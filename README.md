@@ -10,6 +10,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gabriel-Panza/Gabriel-Panza/main/metrics.plugin.languages.svg" alt="Linguagens mais usadas" />
+</div>
+
 <br><br><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Panza&bg_color=000000&color=ADD8E6&line=00008B&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
