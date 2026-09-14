@@ -40,7 +40,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Gabriel-Panza&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+    src="https://streak-stats.demolab.com?user=Gabriel-Panza&theme=github-dark-blue&hide_border=true&locale=pt_BR&v=3"
     alt="Estatísticas de sequência de contribuições"
   />
 </div>
